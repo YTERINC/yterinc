@@ -1,8 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Yuri</h1>
-<h3 align="center">Passionate about IT technologies and BACKEND development. I am actively studying the JAVА language, modern methodologies and programming patterns. I am constantly searching for and analyzing information about the current technology stack in the world of BACKEND development. I am mastering the necessary frameworks and DevOps. Since I have extensive experience in implementing and administering various software and hardware systems, I immediately solve the problem comprehensively and offer my colleagues solutions for discussion. I always think about business requirements first.</h3>
+<h3 align="center">Passionate about IT technologies and BACKEND development. I am actively studying the JAVА language, modern methodologies and programming patterns. I am mastering the necessary frameworks and DevOps. I have extensive experience in the implementation and administration of various software and hardware systems. I always think about business requirements first.</h3>
 
 - 🔭 I’m currently working on [Customer contact information accounting system](https://github.com/YTERINC/CustomerContactInformation.git)
+
+- 🌱 I’m currently learning **Java Spring Framework, KAFKA, Redis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,5 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yterinc&show_icons=true&locale=en&layout=compact" alt="yterinc" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yterinc&show_icons=true&locale=en" alt="yterinc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yterinc&" alt="yterinc" /></p>
