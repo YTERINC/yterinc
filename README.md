@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuri</h1>
-<h3 align="center">Passionate about IT technologies and BACKEND development. I am actively studying the JAVА language, modern methodologies and programming patterns. I am mastering the necessary frameworks and DevOps. I have extensive experience in the implementation and administration of various software and hardware systems. I always think about business requirements first.</h3>
+<h3 align="center">Passionate about IT technologies and BACKEND development. <br> I am actively studying the JAVА language, modern methodologies and programming patterns. I am mastering the necessary frameworks and DevOps. I have extensive experience in the implementation and administration of various software and hardware systems. I always think about business requirements first.</h3>
 
 - 🔭 I’m currently working on [Customer contact information accounting system](https://github.com/YTERINC/CustomerContactInformation.git)
 
