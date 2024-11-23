@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on [Customer contact information accounting system](https://github.com/YTERINC/CustomerContactInformation.git)
 
-- 🌱 I’m currently learning **Java Spring Framework, KAFKA, Redis**
+- 🌱 I’m currently learning **Java Spring Framework, KAFKA, Redis, PostgreSQL ...**
+
+- 📫 How to reach me **terentievya@yandex.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
