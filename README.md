@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuri</h1>
 <h3 align="center">Passionate about IT technologies and BACKEND development. <br> I am actively studying the JAVА language, modern methodologies and programming patterns. <br> I am mastering the necessary frameworks and DevOps. <br> I have extensive experience in the implementation and administration of various software and hardware systems. <br> I always think about business requirements first.</h3>
 
-- 🔭 I’m currently working on [Customer contact information accounting system](https://github.com/YTERINC/CustomerContactInformation.git)
+- 🔭 I’m currently working on [TelegramTaskBot](https://github.com/YTERINC/TelegramTaskBot.git)
 
 - 🌱 I’m currently learning **Java Spring Framework, KAFKA, Redis, PostgreSQL ...**
 
